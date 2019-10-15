@@ -1,0 +1,44 @@
+table,
+td {
+    border: 1px solid #333;
+    padding: 10px 50px 20px;
+}
+
+thead,
+th {
+    background-color: lightgrey;
+    color: black;
+}
+
+
+}
+tr{
+	background-color: grey;
+	color: white;
+}
+.hai {
+    background-color: orange;
+    color: white;
+    cursor: grab;
+}
+.hoi{
+	background-color: purple;
+    cursor: grab;
+}
+.rij3{
+	background-color: blue;
+    cursor: grab;
+}
+.rij4{
+	background-color: yellow;
+    cursor: grab;
+
+}
+a[href^="https"]::before {
+  content: " ";
+}
+
+
+td:hover {
+background-color: pink;
+}
